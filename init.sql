@@ -1,4 +1,4 @@
--- Database initialization script for the DevOps e-commerce platform
+-- PostgreSQL initialization script for the DevOps e-commerce platform
 -- Create products table
 CREATE TABLE IF NOT EXISTS products (
                                         id SERIAL PRIMARY KEY,
