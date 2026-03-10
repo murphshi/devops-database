@@ -1,4 +1,5 @@
 # devops-database
+Release version: v1.0.0
 
 ## Overview
 This repository contains the database component for the DevOps final project e-commerce platform.
